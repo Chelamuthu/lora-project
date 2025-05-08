@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- PROJECT SHIELDS -->
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/LoRaRF)](https://pypi.org/project/LoRaRF/)
 [![PyPI](https://img.shields.io/pypi/v/LoRaRF)](https://pypi.org/project/LoRaRF/)
@@ -196,3 +197,6 @@ See examples for [SX126x](https://github.com/chandrawi/LoRaRF-Python/tree/main/e
 
 ### Upcoming features...
 Base class will allow for python3-libgpiod package
+=======
+# lora-project
+>>>>>>> 6a881d1309dd956e7e8deee176639a9f33baf9f4
